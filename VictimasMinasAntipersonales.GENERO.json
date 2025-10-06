@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "68e3512b287c9b8fd08599cc"
+  },
+  "estado": "Hombre"
+},
+{
+  "_id": {
+    "$oid": "68e3512b287c9b8fd08599cd"
+  },
+  "estado": "Mujer"
+},
+{
+  "_id": {
+    "$oid": "68e3512b287c9b8fd08599ce"
+  },
+  "estado": "Sin Información"
+}]
