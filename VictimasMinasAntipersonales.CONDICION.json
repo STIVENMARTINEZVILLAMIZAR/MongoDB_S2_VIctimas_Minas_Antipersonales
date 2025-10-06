@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "68e35fe0287c9b8fd085a903"
+  },
+  "condicion": "Fuerza pública"
+},
+{
+  "_id": {
+    "$oid": "68e35fe0287c9b8fd085a904"
+  },
+  "condicion": "Civil"
+}]
