@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "68e357c8287c9b8fd08599d4"
+  },
+  "rangoedad": "Mayor de 18 años"
+},
+{
+  "_id": {
+    "$oid": "68e357c8287c9b8fd08599d5"
+  },
+  "rangoedad": "Menor de 18 años"
+}]
