@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "68e352fb287c9b8fd08599d0"
+  },
+  "genero": "Herido"
+},
+{
+  "_id": {
+    "$oid": "68e352fb287c9b8fd08599d1"
+  },
+  "genero": "Muerto"
+}]
