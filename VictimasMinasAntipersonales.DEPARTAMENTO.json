@@ -1,0 +1,256 @@
+[{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597aa"
+  },
+  "codigodanedepartamento": 91,
+  "tipoarea": "Rural",
+  "departamento": "AMAZONAS"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597ab"
+  },
+  "codigodanedepartamento": 54,
+  "tipoarea": "Rural",
+  "departamento": "NORTE DE SANTANDER"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597ac"
+  },
+  "codigodanedepartamento": 68,
+  "tipoarea": "Rural",
+  "departamento": "SANTANDER"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597ad"
+  },
+  "codigodanedepartamento": 44,
+  "tipoarea": "Rural",
+  "departamento": "LA GUAJIRA"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597ae"
+  },
+  "codigodanedepartamento": 41,
+  "tipoarea": "Rural",
+  "departamento": "HUILA"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597af"
+  },
+  "codigodanedepartamento": 63,
+  "tipoarea": "Rural",
+  "departamento": "QUINDIO"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597b0"
+  },
+  "codigodanedepartamento": 97,
+  "tipoarea": "Rural",
+  "departamento": "VAUPES"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597b1"
+  },
+  "codigodanedepartamento": 15,
+  "tipoarea": "Rural",
+  "departamento": "BOYACA"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597b2"
+  },
+  "codigodanedepartamento": 94,
+  "tipoarea": "Rural",
+  "departamento": "GUAINIA"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597b3"
+  },
+  "codigodanedepartamento": 19,
+  "tipoarea": "Rural",
+  "departamento": "CAUCA"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597b4"
+  },
+  "codigodanedepartamento": 8,
+  "tipoarea": "Urbana",
+  "departamento": "ATLANTICO"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597b5"
+  },
+  "codigodanedepartamento": 99,
+  "tipoarea": "Rural",
+  "departamento": "VICHADA"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597b6"
+  },
+  "codigodanedepartamento": 13,
+  "tipoarea": "Rural",
+  "departamento": "BOLIVAR"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597b7"
+  },
+  "codigodanedepartamento": 23,
+  "tipoarea": "Rural",
+  "departamento": "CORDOBA"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597b8"
+  },
+  "codigodanedepartamento": 86,
+  "tipoarea": "Rural",
+  "departamento": "PUTUMAYO"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597b9"
+  },
+  "codigodanedepartamento": 17,
+  "tipoarea": "Rural",
+  "departamento": "CALDAS"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597ba"
+  },
+  "codigodanedepartamento": 50,
+  "tipoarea": "Rural",
+  "departamento": "META"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597bb"
+  },
+  "codigodanedepartamento": 27,
+  "tipoarea": "Rural",
+  "departamento": "CHOCO"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597bc"
+  },
+  "codigodanedepartamento": 81,
+  "tipoarea": "Rural",
+  "departamento": "ARAUCA"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597bd"
+  },
+  "codigodanedepartamento": 20,
+  "tipoarea": "Rural",
+  "departamento": "CESAR"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597be"
+  },
+  "codigodanedepartamento": 85,
+  "tipoarea": "Rural",
+  "departamento": "CASANARE"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597bf"
+  },
+  "codigodanedepartamento": 5,
+  "tipoarea": "Rural",
+  "departamento": "ANTIOQUIA"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597c0"
+  },
+  "codigodanedepartamento": 76,
+  "tipoarea": "Rural",
+  "departamento": "VALLE DEL CAUCA"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597c1"
+  },
+  "codigodanedepartamento": 95,
+  "tipoarea": "Rural",
+  "departamento": "GUAVIARE"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597c2"
+  },
+  "codigodanedepartamento": 73,
+  "tipoarea": "Rural",
+  "departamento": "TOLIMA"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597c3"
+  },
+  "codigodanedepartamento": 66,
+  "tipoarea": "Rural",
+  "departamento": "RISARALDA"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597c4"
+  },
+  "codigodanedepartamento": 47,
+  "tipoarea": "Rural",
+  "departamento": "MAGDALENA"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597c5"
+  },
+  "codigodanedepartamento": 11,
+  "tipoarea": "Rural",
+  "departamento": "BOGOTA DC"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597c6"
+  },
+  "codigodanedepartamento": 18,
+  "tipoarea": "Rural",
+  "departamento": "CAQUETA"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597c7"
+  },
+  "codigodanedepartamento": 70,
+  "tipoarea": "Rural",
+  "departamento": "SUCRE"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597c8"
+  },
+  "codigodanedepartamento": 25,
+  "tipoarea": "Rural",
+  "departamento": "CUNDINAMARCA"
+},
+{
+  "_id": {
+    "$oid": "68e33f05287c9b8fd08597c9"
+  },
+  "codigodanedepartamento": 52,
+  "tipoarea": "Rural",
+  "departamento": "NARIÑO"
+}]
