@@ -1,0 +1,3984 @@
+[{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597ca"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN JUAN DEL CESAR"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597cb"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "FONSECA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597cc"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "PATÍA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597cd"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN LUIS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597ce"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL CARMEN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597cf"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GUACARÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597d0"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "VALLE DEL GUAMUEZ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597d1"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "VISTAHERMOSA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597d2"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PAILITAS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597d3"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "DUITAMA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597d4"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ARAUQUITA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597d5"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TASCO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597d6"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "REMEDIOS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597d7"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MORALES"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597d8"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN FRANCISCO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597d9"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LA PLAYA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597da"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "URUMITA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597db"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "YALÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597dc"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BELÉN DE LOS ANDAQUÍES"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597dd"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CURUMANÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597de"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "FÓMEQUE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597df"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "URRAO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597e0"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CHOCONTÁ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597e1"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "AGUACHICA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597e2"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PURACÉ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597e3"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CARMEN DE VIBORAL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597e4"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LA CRUZ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597e5"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PISBA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597e6"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MEDIO SAN JUAN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597e7"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SANDONÁ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597e8"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PRADERA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597e9"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MONTECRISTO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597ea"
+  },
+  "codigodanemunicipio": "5854",
+  "tipoarea": "Rural",
+  "municipio": "VALDIVIA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597eb"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MELGAR"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597ec"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SUAITA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597ed"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "CHALÁN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597ee"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "NORCASIA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597ef"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SANTA ROSA DE OSOS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597f0"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PEQUE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597f1"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL CASTILLO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597f2"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PALERMO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597f3"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN AGUSTÍN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597f4"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TIMBÍO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597f5"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SANTA BÁRBARA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597f6"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LITORAL DEL SAN JUAN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597f7"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "YONDÓ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597f8"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN ALBERTO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597f9"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "VILLAPINZÓN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597fa"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "AGUSTÍN CODAZZI"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597fb"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GÓMEZ PLATA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597fc"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GUADUAS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597fd"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SANTA ROSA DE CABAL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597fe"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LA DORADA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08597ff"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PUERTO WILCHES"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859800"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MARULANDA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859801"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MAJAGUAL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859802"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CHAGUANÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859803"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ALGECIRAS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859804"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CÚCUTA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859805"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "EL COPEY"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859806"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CAJIBÍO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859807"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN JUAN NEPOMUCENO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859808"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BECERRIL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859809"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LA ARGENTINA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085980a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MANAURE BALCÓN DEL CESAR"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085980b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MONTEBELLO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085980c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ALTO BAUDÓ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085980d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "NILO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085980e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "DABEIBA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085980f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "IPIALES"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859810"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "DIBULLA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859811"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "INZÁ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859812"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PUERTO RICO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859813"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CHAPARRAL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859814"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SARDINATA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859815"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "COCORNÁ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859816"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "VENADILLO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859817"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "RIO IRÓ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859818"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SUCRE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859819"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "YOLOMBÓ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085981a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "QUIBDÓ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085981b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CHARTA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085981c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SANTIAGO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085981d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PLANADAS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085981e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "URIBE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085981f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN ROQUE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859820"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ACACÍAS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859821"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MESETAS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859822"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CAJAMARCA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859823"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "HACARÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859824"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "JAMUNDÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859825"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "IQUIRA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859826"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MEDIO ATRATO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859827"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LA VEGA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859828"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PAYA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859829"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GUATAPÉ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085982a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SANTA MARTA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085982b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "COROZAL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085982c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "RONCESVALLES"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085982d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CHIPAQUE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085982e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ANSERMA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085982f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN JUAN DE URABÁ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859830"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "UNGUÍA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859831"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SILVIA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859832"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "VILLAVICENCIO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859833"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TALAIGUA NUEVO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859834"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ACANDÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859835"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PUERTO CONCORDIA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859836"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN ONOFRE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859837"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CARTAGENA DE INDIAS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859838"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TIQUISIO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859839"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "NARIÑO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085983a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GALÁN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085983b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CHÁMEZA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085983c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PUERTO GAITÁN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085983d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL TARRA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085983e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN ANDRÉS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085983f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PUERTO BERRÍO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859840"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BARBACOAS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859841"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SALAMINA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859842"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LA PAZ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859843"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PENSILVANIA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859844"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PALMIRA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859845"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GUTIÉRREZ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859846"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CÓRDOBA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859847"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TADÓ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859848"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN VICENTE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859849"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CALIMA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085984a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "QUETAME"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085984b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MURINDÓ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085984c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CHISCAS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085984d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ORTEGA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085984e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CAMPOALEGRE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085984f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL CHARCO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859850"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN MIGUEL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859851"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LABATECA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859852"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "HATO COROZAL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859853"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "NÓVITA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859854"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MORELIA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859855"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TULUÁ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859856"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TEORAMA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859857"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LÍBANO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859858"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "FUENTE DE ORO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859859"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CÁCHIRA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085985a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN CALIXTO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085985b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "Bogotá DC"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085985c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "AGUADAS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085985d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SANTA CRUZ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085985e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PINILLOS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085985f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN VICENTE DE CHUCURÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859860"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GUADALUPE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859861"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ACEVEDO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859862"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "YARUMAL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859863"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ARGELIA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859864"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PUEBLO BELLO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859865"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ALVARADO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859866"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CAREPA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859867"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PUERTO LLERAS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859868"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL PAUJIL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859869"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MANZANARES"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085986a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "RIVERA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085986b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PITALITO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085986c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "RESTREPO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085986d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ZARAGOZA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085986e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LA SIERRA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085986f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MIRANDA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859870"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PÁCORA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859871"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN CARLOS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859872"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "AGUAZUL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859873"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CARURÚ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859874"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SÁCAMA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859875"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PIAMONTE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859876"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BARRANCO DE LOBA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859877"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PUERTO RONDÓN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859878"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PASCA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859879"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CRAVO NORTE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085987a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SEVILLA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085987b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LA MACARENA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085987c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CARTAGENA DEL CHAIRÁ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085987d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN JOSÉ DEL PALMAR"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085987e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "BARRANQUILLA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085987f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BAJO BAUDÓ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859880"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "COLOSÓ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859881"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ÁBREGO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859882"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN ANTONIO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859883"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LEJANÍAS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859884"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "RIOFRÍO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859885"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "VIGÍA DEL FUERTE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859886"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN LORENZO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859887"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MISTRATÓ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859888"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "COYAIMA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859889"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL DONCELLO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085988a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BRICEÑO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085988b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "VIANÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085988c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SOLITA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085988d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LA UNIÓN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085988e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MANIZALES"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085988f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "JAMBALÓ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859890"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LA JAGUA DE IBIRICO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859891"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CARACOLÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859892"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BUENOS AIRES"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859893"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "OLAYA HERRERA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859894"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MONTAÑITA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859895"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "VILLAGARZÓN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859896"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ABEJORRAL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859897"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CERTEGUI"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859898"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CIÉNAGA DE ORO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859899"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LLORÓ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085989a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CUBARÁ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085989b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "IBAGUÉ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085989c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN JOSÉ DEL FRAGUA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085989d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TUMACO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085989e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LINARES"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085989f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CHIGORODÓ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598a0"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL DORADO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598a1"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CALI"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598a2"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ROBERTO PAYÁN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598a3"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ISTMINA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598a4"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ARENAL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598a5"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CAMPAMENTO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598a6"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "BELLO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598a7"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PULÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598a8"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CÁQUEZA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598a9"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "QUINCHÍA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598aa"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SALAZAR"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598ab"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GUÁTICA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598ac"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PUERRES"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598ad"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL DOVIO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598ae"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL CERRITO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598af"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PÁEZ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598b0"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SIMACOTA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598b1"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL CANTÓN DEL SAN PABLO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598b2"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CABRERA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598b3"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN JACINTO DEL CAUCA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598b4"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MONTERÍA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598b5"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PAJARITO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598b6"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PUERTO TRIUNFO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598b7"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MACEO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598b8"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TELLO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598b9"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "VÉLEZ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598ba"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "NUQUÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598bb"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "FUNDACIÓN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598bc"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SOLANO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598bd"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SUAZA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598be"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CALDONO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598bf"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "RIO QUITO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598c0"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ISNOS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598c1"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL GUAMO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598c2"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BUENAVENTURA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598c3"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ZONA BANANERA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598c4"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PEÑOL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598c5"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN PEDRO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598c6"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TOTORÓ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598c7"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PUERTO LIBERTADOR"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598c8"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BOLÍVAR"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598c9"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL MOLINO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598ca"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CUMARIBO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598cb"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GUARANDA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598cc"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SURATÁ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598cd"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ABRIAQUÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598ce"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN MARTÍN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598cf"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "CISNEROS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598d0"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BAGADÓ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598d1"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ANGOSTURA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598d2"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "JURADÓ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598d3"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BOJAYÁ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598d4"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ALEJANDRÍA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598d5"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MAPIRIPÁN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598d6"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BUCARASICA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598d7"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LA JAGUA DEL PILAR"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598d8"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "QUÍPAMA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598d9"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TOPAIPÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598da"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN BERNARDO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598db"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "LÉRIDA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598dc"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TÁMESIS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598dd"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "VILLAGÓMEZ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598de"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SANTA FE ANTIOQUIA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598df"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MERCADERES"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598e0"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SANTA ROSA DEL SUR"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598e1"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ROVIRA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598e2"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL ZULIA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598e3"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ALBÁN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598e4"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SANTUARIO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598e5"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CANTAGALLO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598e6"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "OTANCHE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598e7"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "DAGUA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598e8"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN MARTÍN DE LOBA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598e9"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BARRANCOMINAS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598ea"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GRANADA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598eb"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN JUANITO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598ec"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "AMALFI"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598ed"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "CHIRIGUANÁ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598ee"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SABANAGRANDE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598ef"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "RIONEGRO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598f0"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TAURAMENA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598f1"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "RICAURTE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598f2"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN PABLO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598f3"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GÉNOVA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598f4"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ZAPATOCA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598f5"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PIEDECUESTA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598f6"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LOS PALMITOS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598f7"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BELTRÁN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598f8"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "SOGAMOSO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598f9"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LEIVA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598fa"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CaRDOBA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598fb"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PAUNA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598fc"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MACHETÁ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598fd"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MEDELLÍN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598fe"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MAGÜÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08598ff"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "MONTENEGRO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859900"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN JUAN DE ARAMA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859901"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GARZÓN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859902"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "VERGARA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859903"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL CARMEN DEL DARIEN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859904"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GACHETÁ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859905"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PAZ DE ARIPORO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859906"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CALIFORNIA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859907"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "APARTADÓ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859908"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GUAMAL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859909"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GUAYABETAL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085990a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ANZÁ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085990b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL ROSARIO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085990c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "DURANIA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085990d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "NATAGAIMA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085990e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PIJAO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085990f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PIENDAMÓ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859910"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PUERTO LEGUÍZAMO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859911"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "RIOSUCIO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859912"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ITUANGO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859913"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ALMAGUER"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859914"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "FLORIDA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859915"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CURILLO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859916"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GAMA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859917"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BAHÍA SOLANO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859918"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PINCHOTE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859919"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MITÚ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085991a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "YOPAL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085991b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TÚQUERRES"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085991c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "VILLANUEVA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085991d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CONVENCIÓN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085991e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BALBOA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085991f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MALLAMA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859920"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "OCAÑA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859921"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "HERRÁN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859922"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CAUCASIA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859923"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL COCUY"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859924"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ALBANIA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859925"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GUAYABAL DE SÍQUIMA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859926"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAMANIEGO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859927"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LANDÁZURI"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859928"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LA SALINA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859929"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "HATO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085992a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GIRÓN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085992b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LEBRÍJA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085992c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SANTA ROSA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085992d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CARAMANTA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085992e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "AQUITANIA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085992f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PUERTO SANTANDER"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859930"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL CARMEN DE BOLÍVAR"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859931"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN JACINTO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859932"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL ÁGUILA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859933"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ARAUCA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859934"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "DOLORES"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859935"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BARRANCABERMEJA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859936"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MOCOA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859937"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ANORÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859938"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN VICENTE DEL CAGUÁN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859939"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL BAGRE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085993a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LA LLANADA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085993b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "VALPARAÍSO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085993c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "VILLAHERMOSA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085993d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "RIOBLANCO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085993e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ZAMBRANO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085993f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ACHÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859940"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SUÁREZ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859941"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CONCEPCIÓN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859942"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN RAFAEL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859943"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAMANÁ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859944"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL CALVARIO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859945"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "POLICARPA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859946"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SEGOVIA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859947"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "OVEJAS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859948"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "VALLEDUPAR"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859949"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SABANALARGA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085994a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GARAGOA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085994b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TAME"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085994c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TOLEDO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085994d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "HERVEO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085994e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GUAPI"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085994f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "PEREIRA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859950"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "COLOMBIA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859951"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "QUEBRADANEGRA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859952"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PELAYA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859953"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "URIBIA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859954"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SANTANDER DE QUILICHAO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859955"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GIGANTE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859956"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "MONTELÍBANO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859957"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ICONONZO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859958"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SONSÓN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859959"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BELÉN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085995a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MILÁN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085995b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BARAYA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085995c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL TAMBO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085995d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "VILLARRICA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085995e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "CURITÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085995f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CUMBAL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859960"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL CARMEN DEL ATRATO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859961"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN SEBASTIÁN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859962"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "NEIVA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859963"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PUEBLO RICO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859964"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BUGALAGRANDE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859965"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LÓPEZ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859966"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ORITO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859967"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BELALCÁZAR"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859968"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GUATAVITA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859969"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "RIOHACHA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085996a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "FILADELFIA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085996b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PRADO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085996c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "NECOCLÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085996d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CORINTO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085996e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PLATO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085996f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SUPÍA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859970"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN JOSÉ DEL GUAVIARE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859971"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LA CUMBRE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859972"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LABRANZAGRANDE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859973"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LA PEÑA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859974"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "REGIDOR"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859975"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "POPAYÁN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859976"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GUARNE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859977"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SOCORRO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859978"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MUTATÁ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859979"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PANDI"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085997a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CAÑASGORDAS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085997b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TIBÚ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085997c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LA ESTRELLA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085997d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "NECHÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085997e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "JARDÍN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085997f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "COLÓN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859980"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SIMITÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859981"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LIBORINA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859982"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SIPÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859983"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CHITA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859984"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MEDIO BAUDÓ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859985"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "UNE"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859986"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TURBO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859987"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CALAMAR"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859988"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ÚTICA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859989"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "INIRIDA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085998a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN EDUARDO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085998b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ARBOLEDAS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085998c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PUERTO CARREÑO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085998d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LA BELLEZA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085998e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TIERRALTA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085998f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BURITICÁ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859990"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN JUAN DE RIOSECO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859991"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CAPARRAPÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859992"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ANZOÁTEGUI"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859993"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL PLAYÓN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859994"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LA PLATA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859995"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL PEÑÓN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859996"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "FORTUL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859997"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LOS ANDES"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859998"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "FRONTINO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd0859999"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TÁMARA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085999a"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "GALERAS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085999b"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SANTA MARÍA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085999c"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "EL RETORNO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085999d"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CUBARRAL"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085999e"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BUGA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd085999f"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MIRAFLORES"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599a0"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CIÉNAGA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599a1"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CÁCERES"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599a2"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SASAIMA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599a3"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PUERTO ASÍS"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599a4"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "LA PALMA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599a5"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "NOROSÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599a6"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SARAVENA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599a7"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SAN JERÓNIMO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599a8"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TARAZÁ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599a9"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "TORIBÍO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599aa"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PUERTO GUZMÁN"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599ab"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SANTO DOMINGO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599ac"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SESQUILÉ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599ad"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CIMITARRA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599ae"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Urbana",
+  "municipio": "BUCARAMANGA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599af"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ARACATACA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599b0"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "RÍOVIEJO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599b1"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CUMBITARA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599b2"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MATANZA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599b3"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "VEGACHÍ"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599b4"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "ATACO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599b5"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "CALOTO"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599b6"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MACARAVITA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599b7"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "MORROA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599b8"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "FLORENCIA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599b9"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "SABANA DE TORRES"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599ba"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "BELÉN DE UMBRÍA"
+},
+{
+  "_id": {
+    "$oid": "68e34007287c9b8fd08599bb"
+  },
+  "codigodanemunicipio": null,
+  "tipoarea": "Rural",
+  "municipio": "PUERTO CAICEDO"
+}]
