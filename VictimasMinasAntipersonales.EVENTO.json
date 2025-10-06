@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a905"
+  },
+  "tipoevento": "Sendero",
+  "latitudcabecera": 7.369444444,
+  "longitudcabecera": -75.77694444,
+  "Ubicación": "(7.3694444444444445, -75.77694444444444)",
+  "Actividad": "Fuerza pública"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a906"
+  },
+  "tipoevento": "Viviendas abandonadas",
+  "latitudcabecera": 1.492777778,
+  "longitudcabecera": -77.71722222,
+  "Ubicación": "(1.4927777777777778, -77.71722222222222)",
+  "Actividad": "Fuerza pública"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a907"
+  },
+  "tipoevento": "Carretera",
+  "latitudcabecera": 0.664866,
+  "longitudcabecera": -76.869171,
+  "Ubicación": "(0.664866, -76.869171)",
+  "Actividad": "Otra"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a908"
+  },
+  "tipoevento": "Infra gaseoducto",
+  "latitudcabecera": 0.6606906111,
+  "longitudcabecera": -76.28993864,
+  "Ubicación": "(0.660690611111111, -76.28993863888888)",
+  "Actividad": "Mantenimiento de infraestructura"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a909"
+  },
+  "tipoevento": "Quebradas",
+  "latitudcabecera": 6.058611111,
+  "longitudcabecera": -75.06555556,
+  "Ubicación": "(6.058611111111111, -75.06555555555556)",
+  "Actividad": "Fuerza pública"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a90a"
+  },
+  "tipoevento": "Oleoductos",
+  "latitudcabecera": 0.762222222,
+  "longitudcabecera": -77.27833333,
+  "Ubicación": "(0.762222222, -77.27833333)",
+  "Actividad": "Fuerza pública"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a90b"
+  },
+  "tipoevento": "Borde de la carretera",
+  "latitudcabecera": 7.111944444,
+  "longitudcabecera": -76.11194444,
+  "Ubicación": "(7.111944444444444, -76.11194444444445)",
+  "Actividad": "Fuerza pública"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a90c"
+  },
+  "tipoevento": "En cerca edificio gubernamental",
+  "latitudcabecera": 6.789849044,
+  "longitudcabecera": -71.77345006,
+  "Ubicación": "(6.78984904371, -71.7734500621)",
+  "Actividad": "Pasando, estando cerca"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a90d"
+  },
+  "tipoevento": "Puentes",
+  "latitudcabecera": 2.537777778,
+  "longitudcabecera": -75.36194444,
+  "Ubicación": "(2.53777777777778, -75.3619444444444)",
+  "Actividad": "Fuerza pública"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a90e"
+  },
+  "tipoevento": "Caminos",
+  "latitudcabecera": 8.618888889,
+  "longitudcabecera": -73.17305556,
+  "Ubicación": "(8.61888888888889, -73.17305555555555)",
+  "Actividad": "Fuerza pública"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a90f"
+  },
+  "tipoevento": "Sin informacion",
+  "latitudcabecera": 6.143703,
+  "longitudcabecera": -75.185183,
+  "Ubicación": "(6.143703, -75.185183)",
+  "Actividad": "Pasando, estando cerca"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a910"
+  },
+  "tipoevento": "Fincas",
+  "latitudcabecera": 7.073333,
+  "longitudcabecera": -75.147222,
+  "Ubicación": "(7.073333, -75.147222)",
+  "Actividad": "Sin Información"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a911"
+  },
+  "tipoevento": "Cerros",
+  "latitudcabecera": 8.329444444,
+  "longitudcabecera": -73.03888889,
+  "Ubicación": "(8.329444444444444, -73.03888888888889)",
+  "Actividad": "Fuerza pública"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a912"
+  },
+  "tipoevento": "Infra torres electricas",
+  "latitudcabecera": 6.9375,
+  "longitudcabecera": -75.24972222,
+  "Ubicación": "(6.9375, -75.2497222222222)",
+  "Actividad": "Fuerza pública"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a913"
+  },
+  "tipoevento": "Canos",
+  "latitudcabecera": 6.459722222,
+  "longitudcabecera": -71.3625,
+  "Ubicación": "(6.459722222222222, -71.3625)",
+  "Actividad": "Fuerza pública"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a914"
+  },
+  "tipoevento": "Escuelas",
+  "latitudcabecera": 8.473333333,
+  "longitudcabecera": -73.3375,
+  "Ubicación": "(8.47333333333333, -73.3375)",
+  "Actividad": "Fuerza pública"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a915"
+  },
+  "tipoevento": "En cerca instalacion militar",
+  "latitudcabecera": 3.718444444,
+  "longitudcabecera": -76.11391667,
+  "Ubicación": "(3.7184444444444447, -76.11391666666667)",
+  "Actividad": "Labores de desminado"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a916"
+  },
+  "tipoevento": "En cerca a edificio residencial",
+  "latitudcabecera": 2.955399,
+  "longitudcabecera": -76.268615,
+  "Ubicación": "(2.955399, -76.268615)",
+  "Actividad": "Sin Información"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a917"
+  },
+  "tipoevento": "en sobre cerca rivera de un rio",
+  "latitudcabecera": 1.458333333,
+  "longitudcabecera": -72.5225,
+  "Ubicación": "(1.4583333333333333, -72.5225)",
+  "Actividad": "Fuerza pública"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a918"
+  },
+  "tipoevento": "Campo",
+  "latitudcabecera": 8.471395407,
+  "longitudcabecera": -73.94272781,
+  "Ubicación": "(8.47139540671, -73.9427278067)",
+  "Actividad": "Agricultura"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a919"
+  },
+  "tipoevento": "Infraestructura de comunicaciones",
+  "latitudcabecera": 7.877777778,
+  "longitudcabecera": -76.57388889,
+  "Ubicación": "(7.877777777777778, -76.57388888888889)",
+  "Actividad": "Fuerza pública"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a91a"
+  },
+  "tipoevento": "Centro de salud",
+  "latitudcabecera": 6.388611111,
+  "longitudcabecera": -75.06555556,
+  "Ubicación": "(6.3886111111111115, -75.06555555555556)",
+  "Actividad": "Sin Información"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a91b"
+  },
+  "tipoevento": "Centros deportivos recreacion",
+  "latitudcabecera": 1.936694267,
+  "longitudcabecera": -77.29507595,
+  "Ubicación": "(1.93669426722, -77.295075947)",
+  "Actividad": "Jugando"
+},
+{
+  "_id": {
+    "$oid": "68e36243287c9b8fd085a91c"
+  },
+  "tipoevento": "Campamentos ilegales",
+  "latitudcabecera": 8.86,
+  "longitudcabecera": -72.85944444,
+  "Ubicación": "(8.86, -72.85944444444445)",
+  "Actividad": "Erradicador manual - PCI"
+}]
