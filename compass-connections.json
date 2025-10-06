@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "6e56ca5e-0dbd-4efb-aa1c-8c6dc93c59d1",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1759722584136"
+        }
+      },
+      "favorite": {
+        "name": "MongoDB"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://stivenmartinezvillamizar:149600225j123.K*@cluster0.zsyjrwr.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjoxLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
