@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "68e359dc287c9b8fd085a901"
+  },
+  "tipoarea": "Urbana"
+},
+{
+  "_id": {
+    "$oid": "68e359dc287c9b8fd085a902"
+  },
+  "tipoarea": "Rural"
+}]
